@@ -8,3 +8,10 @@ a img{
   border-radius: 50%;
   margin: 5px;
 }
+
+.mainCont{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}

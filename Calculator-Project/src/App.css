@@ -1,12 +1,15 @@
 .contenedor{
     width: 300px;
-    height: 450px;
+    height: 500px;
     background-color: rgb(159, 159, 159);
     display: flex;
     justify-items: center;
     justify-content: center;
     margin: 30px;
+    border-radius: 10px;
 }
+
+
 
 .dashboard{
     display: flex;
@@ -17,12 +20,15 @@
     padding: 10px;
     justify-content: center;
     align-items: center;
+    margin: 8px;
+    border-radius: 15px;
 }
 
 .display{
     width: 200px;
-    height:35px;
-    font-size: 30px;
+    height:40px;
+    margin: 10px;
+    font-size: 25px;
     padding: 3px;
     background-color: rgb(79, 79, 79);
     color: white;
